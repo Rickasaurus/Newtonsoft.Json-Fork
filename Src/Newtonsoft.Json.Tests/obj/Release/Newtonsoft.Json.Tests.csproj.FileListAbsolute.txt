@@ -1,0 +1,11 @@
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\bunny_pancake.jpg
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\Newtonsoft.Json.Tests.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\Newtonsoft.Json.Tests.pdb
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\Newtonsoft.Json.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\nunit.framework.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\Newtonsoft.Json.pdb
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\Newtonsoft.Json.xml
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\bin\Release\Net\nunit.framework.xml
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\obj\Release\Newtonsoft.Json.Tests.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json.Tests\obj\Release\Newtonsoft.Json.Tests.pdb

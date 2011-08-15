@@ -1,0 +1,5 @@
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\obj\Release\ResolveAssemblyReference.cache
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.pdb
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\obj\Release\Newtonsoft.Json.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\obj\Release\Newtonsoft.Json.pdb

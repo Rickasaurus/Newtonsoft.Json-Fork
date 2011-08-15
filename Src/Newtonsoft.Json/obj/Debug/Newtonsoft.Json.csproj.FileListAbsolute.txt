@@ -1,0 +1,8 @@
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.pdb
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll.CodeAnalysisLog.xml
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll.lastcodeanalysissucceeded
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb
+C:\Temp\newtonsoft\trunk\Src\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.xml

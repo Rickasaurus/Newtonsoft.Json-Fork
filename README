@@ -1,0 +1,3 @@
+This is a fork of the active branch of Newtonsoft JSON.NET as of Aug 5th.  
+It contains some tweaks to the JsonConverter infrastructure so that attributes can be inspected.  See the 
+link at the top of the page for more information.
